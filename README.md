@@ -15,6 +15,8 @@
 
 My final capstone project at AltSchool Africa involved analysing data from the Chinook Database. It involves analysing the highest selling artist, highest sales with trend over time, customer purchase  and the purchase patterns of the high and medium value customers, popularity of each genre based over different time period and the customer lifetime value (CLV)
 
+![Chinook Sales Dashboard](https://github.com/user-attachments/assets/0d9aa286-88c9-44b0-8d9f-59cdecc7ee46)
+
 ### Data Source
 
 Chinook Database: Modeled after a digital media store, it contains details on Artist, and their sales' details, customers and their purchase characteristics.
