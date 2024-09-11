@@ -230,3 +230,4 @@ year 2010 and 2012 at $481.45 and $477.53 respectively
 Based on the analysis, 
 - Implement and invest in strategies to retain high-CLV customers, such as loyalty programs, exclusive offers, and personalized communication.
 - Identify opportunities to upsell or cross-sell relevant products or services to high-CLV customers
+
